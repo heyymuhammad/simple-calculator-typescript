@@ -1,0 +1,30 @@
+{
+  "name": "a-simple-calculator-by-sultan",
+  "version": "1.0.1",
+  "description": "A Simple Calculator programmed using typescript inquirer module.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyymuhammad/typescript-simple-calculator.git"
+  },
+  "keywords": [
+    "typescript",
+    "calculator",
+    "inquirer",
+    "node"
+  ],
+  "author": "Sultan Muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyymuhammad/typescript-simple-calculator/issues"
+  },
+  "homepage": "https://github.com/heyymuhammad/typescript-simple-calculator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
